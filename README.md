@@ -1,5 +1,5 @@
 # Simple text editor
-A text editor with ReactJS
+A text editor with ReactJS.
 Thanks for the coding challenge, hope you like it.
 
 ## Initial setup

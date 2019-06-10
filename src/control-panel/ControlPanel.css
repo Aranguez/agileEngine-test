@@ -1,0 +1,31 @@
+.control-panel {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.control-panel button {
+  cursor: pointer;
+  border: none;
+  background-color: #ccc;
+  border-radius: 3px;
+  margin-right: 5px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1rem;
+}
+
+.control-panel button.format-action-color {
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  margin-right: 5px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1rem;
+  width: 20px;
+  height: 20px;
+  transition: border .3s ease;
+}
+
+.control-panel button.format-action-color:hover {
+  border: 1px solid #000;
+}

@@ -1,5 +1,6 @@
 # Simple text editor
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+A text editor with ReactJS
+Thanks for the coding challenge, hope you like it.
 
 ## Initial setup
 Run `npm install` in order to setup application
